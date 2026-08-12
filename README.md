@@ -28,9 +28,3 @@
 
 
 
-<img align="right" width="240px" src="" alt="character"/>
-
-<br clear="right"/>
-
-
-.
