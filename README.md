@@ -29,12 +29,7 @@
 ---
 
 **Full-Stack Developer**
-
-> *"We are born of the blood, made men by the blood, undone by the blood."*
-
-Currently deepening my studies in **Python**, **SQL** and **web development**, applying this knowledge to real personal projects — automation bots, portfolios, and web tools.
-
-I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **Node.js**, **Git** and am currently exploring **AWS & Cloud Computing**.
+exploring **AWS & Cloud Computing**.
 
 <img align="right" width="240px" src="https://raw.githubusercontent.com/ladymnria/ladymnria/main/charpng.jpg" alt="character"/>
 
