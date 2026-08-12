@@ -30,7 +30,7 @@
 
 
 
-<img align="right" width="240px" src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="character"/>
+<img align="right" width="240px" src="" alt="character"/>
 
 <br clear="right"/>
 
