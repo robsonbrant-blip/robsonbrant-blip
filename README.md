@@ -1,16 +1,44 @@
-## Hi there 👋
+👋 Olá, eu sou Robson
 
-<!--
-**robsonbrant-blip/robsonbrant-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛡️ Cybersecurity Student | Python | Windows
 
-Here are some ideas to get you started:
+Sou estudante de cibersegurança e tenho interesse em entender como sistemas, redes e softwares funcionam, além de aprender como identificar e corrigir vulnerabilidades em ambientes autorizados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔐 Interesses
+
+- Cybersecurity
+- Penetration Testing
+- Windows Security
+- Vulnerability Research
+- Network Security
+- Python
+- C#
+- Security Automation
+
+📚 Atualmente estudando
+
+- 🐍 Python
+- 🌐 Redes de computadores
+- 🪟 Windows Internals
+- 🔒 Segurança da informação
+- 🧪 Pentest em ambientes de laboratório
+- 🔍 Análise de vulnerabilidades
+
+🛠️ Tecnologias
+
+"Python" "C#" "Windows" "Git" "GitHub"
+
+🚀 Objetivo
+
+Estou construindo meus conhecimentos em Cybersecurity através de estudos, projetos práticos e laboratórios.
+
+«⚠️ Projetos de segurança são desenvolvidos para fins educacionais, pesquisa e testes autorizados.»
+
+---
+
+📌 Em aprendizado constante
+
+Cybersecurity █████░░░░░ 50%
+Python        █████░░░░░ 50%
+Networking    ████░░░░░░ 40%
+Windows       ████░░░░░░ 40%
