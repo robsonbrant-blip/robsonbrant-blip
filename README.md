@@ -9,7 +9,7 @@
 <!-- CONTACT -->
 <div align="center">
 
-[
+
 </div>
 
 <br/>
